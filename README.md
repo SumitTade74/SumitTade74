@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me via mail sumittade74@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 SumitTade74/SumitTade74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
